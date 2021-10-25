@@ -1,0 +1,8 @@
+{
+  "name": "employees-client",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/boris21071990/employees-client.git",
+  "author": "Boris Beletskiy",
+  "license": "MIT"
+}
